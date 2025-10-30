@@ -6,7 +6,7 @@ from googletrans import Translator
 st.markdown("""
     <style>
         body {
-            background-color: #e0f7fa;  
+            background-color: #e0f7fa;  /* Celeste claro */
         }
     </style>
 """, unsafe_allow_html=True)
